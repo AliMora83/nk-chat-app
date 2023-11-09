@@ -1,4 +1,4 @@
-# Fullstack Chat project
+# NK Chat App
 
 This project allows to setup fullstack chat for any frontend/backend combination!
 
